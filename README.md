@@ -40,4 +40,4 @@ interfaces present inside the portchannel.
 
 ## Usage
 
-`$ clagctl_parser.py
+`$ clagctl_parser.py`
